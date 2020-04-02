@@ -1,0 +1,8 @@
+body {
+  background-color: #eceff1;
+}
+
+#formulario-pergunta{
+  /* vh = altura da tela */
+  margin-top: 5vh;
+}
